@@ -21,7 +21,6 @@ A ferramenta responde às seguintes questões:
 ### Configuração do ambiente
 - Instale o PHP
 - Instale o JAVA
-- Instale o XYZ
 - Configure a VM, A configuração poderá ser baixada em
  ```
 	git clone 
